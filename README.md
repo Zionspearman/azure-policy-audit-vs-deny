@@ -1,7 +1,7 @@
-# Azure Policy Lab 1: Audit vs Deny (Allowed Locations)
+# Azure Policy Lab: Audit vs Deny (Allowed Locations)
 
 This repository supports my lab walkthrough video on using **Azure Policy** to enforce governance by comparing **Audit** vs **Deny** effects using an **Allowed locations** policy assignment.  
-📺 **Watch the lab video on YouTube:** (add your link)
+📺 **Watch the lab video on YouTube:** https://youtu.be/BTpe-xfad4w
 
 ---
 
